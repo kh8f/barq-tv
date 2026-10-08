@@ -5,44 +5,47 @@ export default {
  "footer": "MASOUB STORE — منتجات رقمية | اشتراكات مميزة | أسعار تنافسية",
  "cards": [
   {
-   "badge": "شاشات الأندرويد",
-   "tag": "ANDROID TV",
-   "icon": "fa-solid fa-tv",
-   "title": "عبر شاشات الأندرويد",
+   "badge": "أجهزة Apple",
+   "tag": "iOS",
+   "icon": "fa-brands fa-apple",
+   "title": "عبر أجهزة Apple",
    "notice": "",
    "steps": [
-    "من Google Play حمل تطبيق Downloader.",
-    "افتح Downloader وأدخل أحد الأكواد بالأسفل.",
-    "سجّل الدخول عبر اليوزر والباسوورد.",
-    "في خانة رقم السيرفر ادخل الكود بالأسفل."
+    "حمّل أحد التطبيقات من الأزرار بالأسفل.",
+    "في خانة الاسم ضع اسمًا عشوائيًا.",
+    "أدخل اليوزر والباسوورد.",
+    "في خانة رقم السيرفر اكتب الكود بالأسفل."
    ],
    "servers": [
     {
      "label": "رقم السيرفر",
      "value": "0001"
-    },
-    {
-     "label": "Barq Box",
-     "value": "3612015"
-    },
-    {
-     "label": "+ Next",
-     "value": "2231346"
-    },
-    {
-     "label": "+ Apex",
-     "value": "7206983"
     }
    ],
    "buttons": [
     {
+     "text": "Barq Box",
+     "url": "https://apps.apple.com/sa/app/barq-box/id6782296407",
+     "type": "download"
+    },
+    {
+     "text": "Apex+",
+     "url": "https://apps.apple.com/ae/app/apex/id6797098667",
+     "type": "download"
+    },
+    {
+     "text": "20 Platform",
+     "url": "https://apps.apple.com/eg/app/20-platform/id6502774600",
+     "type": "download"
+    },
+    {
      "text": "شرح التثبيت",
-     "url": "",
+     "url": "https://youtube.com/shorts/Ond-9bJIwe8?si=USv8RNKCCmuPBegJ",
      "type": "video"
     },
     {
      "text": "شرح تحديث المحتوى",
-     "url": "",
+     "url": "https://youtube.com/shorts/iGj5ZxpSlmw?si=c6uBTdnhcMi9wvPl",
      "type": "video"
     }
    ]
@@ -54,8 +57,8 @@ export default {
    "title": "عبر أجهزة الأندرويد",
    "notice": "",
    "steps": [
-    "حمل أحد التطبيقات من الأزرار بالأسفل.",
-    "في خانة الاسم ضع اسما عشوائيا.",
+    "حمّل أحد التطبيقات من الأزرار بالأسفل.",
+    "في خانة الاسم ضع اسمًا عشوائيًا.",
     "أدخل اليوزر والباسوورد.",
     "في خانة رقم السيرفر اكتب الكود بالأسفل."
    ],
@@ -68,97 +71,94 @@ export default {
    "buttons": [
     {
      "text": "Barq Box",
-     "url": "",
+     "url": "https://play.google.com/store/apps/details?id=com.barqtv.android",
      "type": "download"
     },
     {
-     "text": "+Apex",
-     "url": "",
+     "text": "Apex+",
+     "url": "https://play.google.com/store/apps/details?id=com.apexcloud.app",
      "type": "download"
     },
     {
-     "text": "+ NEXT",
-     "url": "",
+     "text": "NEXT +",
+     "url": "https://play.google.com/store/apps/details?id=com.code.next",
      "type": "download"
     },
     {
      "text": "شرح التثبيت",
-     "url": "",
+     "url": "https://youtube.com/shorts/I0EN7nz1ekk?si=0ed_zJHgz7JbxdgD",
      "type": "video"
     },
     {
      "text": "شرح تحديث المحتوى",
-     "url": "",
+     "url": "https://youtube.com/shorts/fm_x8mG32Kc?si=5LuUuHQAjPRsNBek",
      "type": "video"
     }
    ]
   },
   {
-   "badge": "أجهزة Apple",
-   "tag": "iOS",
-   "icon": "fa-brands fa-apple",
-   "title": "عبر أجهزة Apple",
+   "badge": "شاشات الأندرويد",
+   "tag": "ANDROID TV",
+   "icon": "fa-solid fa-tv",
+   "title": "عبر شاشات الأندرويد",
    "notice": "",
    "steps": [
-    "حمل أحد التطبيقات من الأزرار بالأسفل.",
-    "في خانة الاسم ضع اسما عشوائيا.",
-    "أدخل اليوزر والباسوورد.",
-    "في خانة رقم السيرفر اكتب الكود بالأسفل."
+    "من Google Play حمّل تطبيق Downloader.",
+    "افتح Downloader وأدخل أحد الأكواد بالأسفل.",
+    "سجّل الدخول عبر اليوزر والباسوورد.",
+    "في خانة رقم السيرفر ادخل الكود بالاسفل."
    ],
    "servers": [
     {
      "label": "رقم السيرفر",
      "value": "0001"
+    },
+    {
+     "label": "Barq Box",
+     "value": "3612015"
+    },
+    {
+     "label": "Next +",
+     "value": "2231346"
+    },
+    {
+     "label": "Apex +",
+     "value": "7206983"
     }
    ],
    "buttons": [
     {
-     "text": "Barq Box",
-     "url": "",
-     "type": "download"
-    },
-    {
-     "text": "+Apex",
-     "url": "",
-     "type": "download"
-    },
-    {
-     "text": "Platform 29",
-     "url": "",
-     "type": "download"
-    },
-    {
      "text": "شرح التثبيت",
-     "url": "",
+     "url": "https://youtube.com/shorts/OX2LsN1lo88?si=ESk1qlBXyFbXHGmP",
      "type": "video"
     },
     {
      "text": "شرح تحديث المحتوى",
-     "url": "",
+     "url": "https://youtube.com/shorts/4m4FIHeKrEc?si=pVozOy5d7cvfVPst",
      "type": "video"
     }
    ]
   },
   {
-   "badge": "الشاشات LG و Samsung",
+   "badge": "شاشات LG و Samsung",
    "tag": "SMART TV",
    "icon": "fa-solid fa-tv",
    "title": "عبر أجهزة LG و Samsung",
-   "notice": "اختر أحد التطبيقين ثم سجل باليوزر والباسوورد.",
+   "notice": "اختر أحد التطبيقين ثم سجّل باليوزر والباسوورد.",
    "steps": [
-    "تطبيق OPlayer: اضغط Portal Code وأدخل الكود بالأسفل.",
-    "تطبيق IPTV Smarters Pro: ضع اسما عشوائيا واطلب الهوست من المتجر إلى شريت ملف."
+    "تطبيق 0Player: اضغط Portal Code وأدخل الكود بالأسفل.",
+    "تطبيق IPTV Smarters Pro: ضع اسمًا عشوائيًا، واطلب الهوست من المتجر اللي شريت منه."
    ],
    "servers": [
     {
-     "label": "كود OPlayer للتطبيق",
+     "label": "Portal Code لتطبيق 0Player",
      "value": "68275199"
     }
    ],
    "buttons": [
     {
      "text": "شرح التثبيت",
-     "url": "",
+     "url": "https://youtube.com/shorts/b_v1_VmmwiA?si=VW8FXAE2QKdYT4qS",
      "type": "video"
     }
    ]
@@ -170,8 +170,8 @@ export default {
    "title": "عبر أجهزة الويندوز",
    "notice": "",
    "steps": [
-    "حمل تطبيق Barq Box من الزر بالأسفل.",
-    "في خانة الاسم ضع اسما عشوائيا.",
+    "حمّل تطبيق Barq Box من الزر بالأسفل.",
+    "في خانة الاسم ضع اسمًا عشوائيًا.",
     "أدخل اليوزر والباسوورد.",
     "في خانة رقم السيرفر اكتب الكود بالأسفل."
    ],
@@ -184,12 +184,12 @@ export default {
    "buttons": [
     {
      "text": "Barq Box",
-     "url": "",
+     "url": "https://how-barq.xyz/app/windows/Barq-Box.exe",
      "type": "download"
     },
     {
-     "text": "+ Apex",
-     "url": "",
+     "text": "Apex +",
+     "url": "https://apex-stream.com/apps/windows/apex.exe",
      "type": "download"
     }
    ]
@@ -201,8 +201,8 @@ export default {
    "title": "عبر أجهزة الماك",
    "notice": "",
    "steps": [
-    "حمل تطبيق Barq Box من الزر بالأسفل.",
-    "في خانة الاسم ضع اسما عشوائيا.",
+    "حمّل تطبيق Barq Box من الزر بالأسفل.",
+    "في خانة الاسم ضع اسمًا عشوائيًا.",
     "أدخل اليوزر والباسوورد.",
     "في خانة رقم السيرفر اكتب الكود بالأسفل."
    ],
@@ -215,12 +215,12 @@ export default {
    "buttons": [
     {
      "text": "Barq Box",
-     "url": "",
+     "url": "https://apps.apple.com/sa/app/barq-box/id6782296407",
      "type": "download"
     },
     {
-     "text": "+ Apex",
-     "url": "",
+     "text": "Apex +",
+     "url": "https://apps.apple.com/app/apex/id6797098667",
      "type": "download"
     }
    ]
@@ -250,12 +250,12 @@ export default {
     },
     {
      "text": "شرح التثبيت",
-     "url": "",
+     "url": "https://youtube.com/shorts/Sc3oQb3W8OM?si=a1xMQdHgtcetsy9t",
      "type": "video"
     },
     {
      "text": "شرح تحديث المحتوى",
-     "url": "",
+     "url": "https://youtube.com/shorts/ltLC8ibC1kM?si=L1oyvsinep-BRtk7",
      "type": "video"
     }
    ]
