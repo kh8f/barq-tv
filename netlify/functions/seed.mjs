@@ -34,8 +34,8 @@ export default {
      "type": "download"
     },
     {
-     "text": "20 Platform",
-     "url": "https://apps.apple.com/eg/app/20-platform/id6502774600",
+     "text": "Var Player",
+     "url": "https://apps.apple.com/tr/app/var-player-unlock-your-world/id6477530321",
      "type": "download"
     },
     {
@@ -85,6 +85,11 @@ export default {
      "type": "download"
     },
     {
+     "text": "Mountain Player",
+     "url": "https://play.google.com/store/apps/details?id=com.mountain.app",
+     "type": "download"
+    },
+    {
      "text": "شرح التثبيت",
      "url": "https://youtube.com/shorts/I0EN7nz1ekk?si=0ed_zJHgz7JbxdgD",
      "type": "video"
@@ -124,6 +129,10 @@ export default {
     {
      "label": "Apex +",
      "value": "7206983"
+    },
+    {
+     "label": "Mountain Player",
+     "value": "9071919"
     }
    ],
    "buttons": [
@@ -138,6 +147,23 @@ export default {
      "type": "video"
     }
    ]
+  },
+  {
+   "badge": "أجهزة APPLE TV",
+   "tag": "APPLE TV",
+   "icon": "fa-brands fa-apple",
+   "title": "عبر أجهزة APPLE TV",
+   "notice": "",
+   "steps": [
+    "نزل تطبيق Stream House."
+   ],
+   "servers": [
+    {
+     "label": "رقم السيرفر",
+     "value": "0001"
+    }
+   ],
+   "buttons": []
   },
   {
    "badge": "شاشات LG و Samsung",
@@ -246,6 +272,16 @@ export default {
     {
      "text": "barq-box.com",
      "url": "https://barq-box.com",
+     "type": "link"
+    },
+    {
+     "text": "my.splayer.in",
+     "url": "https://my.splayer.in",
+     "type": "link"
+    },
+    {
+     "text": "web.apex-stream.com",
+     "url": "https://web.apex-stream.com/",
      "type": "link"
     },
     {
